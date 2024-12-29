@@ -1,6 +1,27 @@
+# Welcome to the Personal Database Project
+
+Welcome to the Personal Database project! We are excited to have you here. This project aims to provide a robust and efficient personal database solution using Next.js.
+
+## Contributing
+
+We welcome contributions from the community. Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions on how to get started.
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+
+## Community
+
+Join our community to stay updated and get involved:
+
+- [GitHub Issues](https://github.com/luizbag/personal-database/issues): Report bugs, suggest features, and discuss issues.
+- [Discussions](https://github.com/luizbag/personal-database/discussions): Engage with other contributors and users.
+
+Thank you for your interest in contributing to the Personal Database project. We look forward to your contributions!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+## How to run locally
 
 First, run the development server:
 
