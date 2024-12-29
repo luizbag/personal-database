@@ -23,7 +23,7 @@ title: Personal Database Dev Blog
 description: >- # this means to ignore newlines until "baseurl:"
   A blog to document the development process and features of my personal database application.
   This app aims to help users manage and organize their personal data efficiently, with features like data categorization, search functionality, and secure storage.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/personal-database" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username: jekyll
