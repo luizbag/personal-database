@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Welcome to Personal Database"
+date: 2024-12-29 07:37:28 -0600
+---
+
+Welcome to the Personal Database project! We are thrilled to have you here.
+
+This project aims to create a comprehensive and user-friendly personal database system that can help you manage your data efficiently. Whether you are a developer, a data enthusiast, or someone who just wants to keep their information organized, this project is for you.
+
+## Getting Started
+
+To get started with the Personal Database, please follow the instructions in our [README](https://github.com/luizbag/personal-database/blob/main/README.md) file. It contains all the necessary information to set up and run the project on your local machine.
+
+## Contributing
+
+We welcome contributions from everyone. If you are interested in contributing, please check out our [contributing guidelines](../CONTRIBUTING.md). There, you will find information on how to report issues, submit pull requests, and more.
+
+## Community
+
+Join our community to stay updated with the latest news and updates. You can find us on [GitHub](https://github.com/your-repo/personal-database) and [Discord](https://discord.gg/your-discord-invite).
+
+Thank you for being a part of the Personal Database project. We look forward to your contributions and feedback!
+
+Happy coding!
+
+The Personal Database Team
